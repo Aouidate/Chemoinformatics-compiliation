@@ -33,3 +33,13 @@ The tools in this repository are licensed under the MIT License.
 * [ChemSpider](http://www.chemspider.com/): is a free online database of chemical compounds. It provides information on the structure, properties, and biological activity of millions of compounds. ChemSpider is used by researchers, students, and the general public.
 
 * [PubChem](https://pubchem.ncbi.nlm.nih.gov/):  is a free online database of chemical compounds. It provides information on the structure, properties, and biological activity of millions of compounds. PubChem is used by researchers, students, and the general public.
+
+**Tools for descriptors calculation**
+
+* [Rdkit](https://www.rdkit.org/docs/source/rdkit.Chem.Descriptors.html)
+* [Mordred](https://github.com/mordred-descriptor/mordred)
+* [Chamxon](https://chemaxon.com/)
+* [CDK](http://www.rguha.net/code/java/cdkdesc.html)
+* [E-Dragon](https://vcclab.org/lab/edragon/)
+* [alvaDesc](https://www.alvascience.com/alvadesc/)
+* [MOLD2](https://www.fda.gov/science-research/bioinformatics-tools/mold2)...
