@@ -1,5 +1,9 @@
 # Chemoinformatics-compiliation
 
+<p align="center"> 
+  
+<img src="Chemoinformatics.png alt="logo chemoinfo"/>
+</p>
 ## Introduction
 
 This repository contains a collection of free and open-source chemoinformatic tools. The tools in this repository are used for a variety of tasks, such as molecular structure handling, chemical similarity calculation, and molecular property prediction.
