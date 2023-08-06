@@ -28,6 +28,8 @@ The tools in this repository are licensed under the MIT License.
 
 * [DataWarrior](https://openmolecules.org/datawarrior/) : An Open-Source Program for Data Visualization and Analysis with Chemical Intelligence
 
+* [Datamol](https://github.com/datamol-io/datamol) : The Datamol library is a powerful tool for working with molecules in Python. It is designed to be a lightweight layer built on top of RDKit.
+
 
 **Active Learning Tools**
 
@@ -43,8 +45,13 @@ The tools in this repository are licensed under the MIT License.
 
 * [Rdkit](https://www.rdkit.org/docs/source/rdkit.Chem.Descriptors.html)
 * [Mordred](https://github.com/mordred-descriptor/mordred)
-* [Chamxon](https://chemaxon.com/)
+* [Chamxon](https://chemaxon.com/) : Free licence for academics
 * [CDK](http://www.rguha.net/code/java/cdkdesc.html)
-* [E-Dragon](https://vcclab.org/lab/edragon/)
-* [alvaDesc](https://www.alvascience.com/alvadesc/)
-* [MOLD2](https://www.fda.gov/science-research/bioinformatics-tools/mold2)...
+* [MOLD2](https://www.fda.gov/science-research/bioinformatics-tools/mold2)
+...
+
+**Visualization**
+
+* [ChimeraX](https://www.cgl.ucsf.edu/chimerax/)
+* [PyMol](https://sourceforge.net/projects/pymol/)
+* [VMD](https://www.ks.uiuc.edu/Research/vmd/)
