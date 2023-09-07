@@ -30,6 +30,8 @@ The tools in this repository are licensed under the MIT License.
 
 * [Datamol](https://github.com/datamol-io/datamol) : The Datamol library is a powerful tool for working with molecules in Python. It is designed to be a lightweight layer built on top of RDKit.
 
+* [deepchem](https://deepchem.io/) : DeepChem is a Python library for machine learning and deep learning on molecular and quantum datasets. It is built on top of PyTorch, and other popular ML frameworks. It is designed to make it easy to apply ML to new domains, and to build and benchmark new models. It is also designed to make it easy to use ML in production, by providing easy-to-use model export and deployment APIs
+
 
 **Active Learning Tools**
 
@@ -55,3 +57,4 @@ The tools in this repository are licensed under the MIT License.
 * [ChimeraX](https://www.cgl.ucsf.edu/chimerax/)
 * [PyMol](https://sourceforge.net/projects/pymol/)
 * [VMD](https://www.ks.uiuc.edu/Research/vmd/)
+* [DS Visualizer](https://discover.3ds.com/discovery-studio-visualizer-download)
