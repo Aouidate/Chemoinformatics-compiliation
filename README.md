@@ -52,6 +52,10 @@ The tools in this repository are licensed under the MIT License.
 * [MOLD2](https://www.fda.gov/science-research/bioinformatics-tools/mold2)
 ...
 
+**ADMET**
+
+* [SwissADME](http://www.swissadme.ch/)
+
 **Visualization**
 
 * [ChimeraX](https://www.cgl.ucsf.edu/chimerax/)
