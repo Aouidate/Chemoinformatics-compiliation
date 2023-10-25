@@ -55,6 +55,7 @@ The tools in this repository are licensed under the MIT License.
 **ADMET**
 
 * [SwissADME](http://www.swissadme.ch/)
+* [pkCSM](https://biosig.lab.uq.edu.au/pkcsm/prediction)
 
 **Visualization**
 
