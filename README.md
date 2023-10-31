@@ -57,7 +57,7 @@ The tools in this repository are licensed under the MIT License.
 * [SwissADME](http://www.swissadme.ch/)
 * [pkCSM](https://biosig.lab.uq.edu.au/pkcsm/prediction)
 * [AdemLab](https://admet.scbdd.com/)
-
+* [admetSAR](http://lmmd.ecust.edu.cn/admetsar2)
 **Visualization**
 
 * [ChimeraX](https://www.cgl.ucsf.edu/chimerax/)
