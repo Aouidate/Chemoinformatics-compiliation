@@ -59,6 +59,7 @@ The tools in this repository are licensed under the MIT License.
 * [AdemLab](https://admet.scbdd.com/)
 * [admetSAR](http://lmmd.ecust.edu.cn/admetsar2)
 * [molinspiration](https://www.molinspiration.com/)
+* [ADMETboost](https://ai-druglab.smu.edu/admet)
 
 **Visualization**
 
