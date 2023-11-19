@@ -67,3 +67,7 @@ The tools in this repository are licensed under the MIT License.
 * [PyMol](https://sourceforge.net/projects/pymol/)
 * [VMD](https://www.ks.uiuc.edu/Research/vmd/)
 * [DS Visualizer](https://discover.3ds.com/discovery-studio-visualizer-download)
+
+**Molecular Properties**
+
+* [Molinspiration](https://www.molinspiration.com/cgi/properties)
