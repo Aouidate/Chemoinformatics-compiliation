@@ -71,3 +71,4 @@ The tools in this repository are licensed under the MIT License.
 **Molecular Properties**
 
 * [Molinspiration](https://www.molinspiration.com/cgi/properties)
+* [Osiris](https://www.organic-chemistry.org/prog/peo/)
