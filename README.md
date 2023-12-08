@@ -43,6 +43,8 @@ The tools in this repository are licensed under the MIT License.
 
 * [PubChem](https://pubchem.ncbi.nlm.nih.gov/):  is a free online database of chemical compounds. It provides information on the structure, properties, and biological activity of millions of compounds. PubChem is used by researchers, students, and the general public.
 
+* [ChEMBL](https://www.ebi.ac.uk/chembl/): ChEMBL is a manually curated database of bioactive molecules with drug-like properties. It brings together chemical, bioactivity and genomic data to aid the translation of genomic information into effective new drugs.
+
 **Tools for descriptors calculation**
 
 * [Rdkit](https://www.rdkit.org/docs/source/rdkit.Chem.Descriptors.html)
