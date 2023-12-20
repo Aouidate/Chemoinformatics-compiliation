@@ -45,6 +45,9 @@ The tools in this repository are licensed under the MIT License.
 
 * [ChEMBL](https://www.ebi.ac.uk/chembl/): ChEMBL is a manually curated database of bioactive molecules with drug-like properties. It brings together chemical, bioactivity and genomic data to aid the translation of genomic information into effective new drugs.
 
+* [COCONUT](https://coconut.naturalproducts.net/) : Natural Products Online is an open source project for Natural Products (NPs) storage, search and analysis. The present version hosts COCONUT, the COlleCtion of Open Natural ProdUcTs, one of the biggest and best annotated resources for NPs available free of charge and without any restriction.
+
+
 **Tools for descriptors calculation**
 
 * [Rdkit](https://www.rdkit.org/docs/source/rdkit.Chem.Descriptors.html)
