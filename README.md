@@ -32,6 +32,10 @@ The tools in this repository are licensed under the MIT License.
 
 * [deepchem](https://deepchem.io/) : DeepChem is a Python library for machine learning and deep learning on molecular and quantum datasets. It is built on top of PyTorch, and other popular ML frameworks. It is designed to make it easy to apply ML to new domains, and to build and benchmark new models. It is also designed to make it easy to use ML in production, by providing easy-to-use model export and deployment APIs
 
+* [Scikit-mol](https://github.com/EBjerrum/scikit-mol) : Scikit-mol is a Python library designed for cheminformatics and molecular machine learning. It builds on scikit-learn and RDKit, providing tools for handling molecular data, feature extraction, and applying machine learning models to chemistry-related problems.
+
+* [pdChemChain](https://github.com/EBjerrum/pdchemchain) : It is a framework for reusable manipulations of pandas dataframes for both interactive and command line usage. The framework was made for chemistry actions via RDKit, but can easily be used for other domains as well, as the auto-configuable and self-documenting features of the framework are quite nice and versatile. It is a nice framework for building reusable processing steps and pipelines for pandas. It's meant for iterative building/experimenting in notebook and interactive sessions, but supports saving the final pipeline for command line usage.
+
 
 **Active Learning Tools**
 
@@ -47,7 +51,7 @@ The tools in this repository are licensed under the MIT License.
 
 * [COCONUT](https://coconut.naturalproducts.net/) : Natural Products Online is an open source project for Natural Products (NPs) storage, search and analysis. The present version hosts COCONUT, the COlleCtion of Open Natural ProdUcTs, one of the biggest and best annotated resources for NPs available free of charge and without any restriction.
 
-* [Lotus](https://lotus.naturalproducts.net/) : One of the largest and best-annotated resources for NP occurrences, available free of charge and without any restrictions. LOTUS is a dynamic database that is hosted both on its official website and [on Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page). The Wikidata version enables community curation and the addition of new data if needed.
+* [Lotus](https://lotus.naturalproducts.net/) : One of the largest and best-annotated resources for NP occurrences, available free of charge and without any restrictions. LOTUS is a dynamic database that is hosted both on its official website and on [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page). The Wikidata version enables community curation and the addition of new data if needed.
 
 
 **Tools for descriptors calculation**
@@ -58,6 +62,7 @@ The tools in this repository are licensed under the MIT License.
 * [CDK](http://www.rguha.net/code/java/cdkdesc.html)
 * [MOLD2](https://www.fda.gov/science-research/bioinformatics-tools/mold2)
 * [PaDELPy](https://github.com/ecrl/padelpy)
+* [mapchiral](https://github.com/markusorsi/mapchiral)
 ...
 
 **ADMET**
