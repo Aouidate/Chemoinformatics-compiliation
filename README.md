@@ -1,4 +1,4 @@
-# Chemoinformatics-compiliation
+# Cheminformatics-compiliation
 
 <p align="center"> 
   
@@ -19,7 +19,7 @@ License
 
 The tools in this repository are licensed under the MIT License.
 
-**Chemoinformatic Tools**
+**Cheminformatic Tools**
 
 * [Rdkit](https://www.rdkit.org/) or [here](https://www.rdkit.org/docs/Cookbook.html
 ):is a free and open-source cheminformatics toolkit for Python. It is one of the most popular chemoinformatic tools available, and it is used by researchers and developers around the world. RDKit provides a wide range of features, including molecular structure handling, chemical similarity calculation, and molecular property prediction.
@@ -47,6 +47,8 @@ The tools in this repository are licensed under the MIT License.
 
 * [COCONUT](https://coconut.naturalproducts.net/) : Natural Products Online is an open source project for Natural Products (NPs) storage, search and analysis. The present version hosts COCONUT, the COlleCtion of Open Natural ProdUcTs, one of the biggest and best annotated resources for NPs available free of charge and without any restriction.
 
+* [Lotus](https://lotus.naturalproducts.net/) : One of the largest and best-annotated resources for NP occurrences, available free of charge and without any restrictions. LOTUS is a dynamic database that is hosted both on its official website and [on Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page). The Wikidata version enables community curation and the addition of new data if needed.
+
 
 **Tools for descriptors calculation**
 
@@ -55,6 +57,7 @@ The tools in this repository are licensed under the MIT License.
 * [Chamxon](https://chemaxon.com/) : Free licence for academics
 * [CDK](http://www.rguha.net/code/java/cdkdesc.html)
 * [MOLD2](https://www.fda.gov/science-research/bioinformatics-tools/mold2)
+* [PaDELPy](https://github.com/ecrl/padelpy)
 ...
 
 **ADMET**
@@ -72,8 +75,10 @@ The tools in this repository are licensed under the MIT License.
 * [PyMol](https://sourceforge.net/projects/pymol/)
 * [VMD](https://www.ks.uiuc.edu/Research/vmd/)
 * [DS Visualizer](https://discover.3ds.com/discovery-studio-visualizer-download)
+* [DataWarrior](https://openmolecules.org/datawarrior/)
 
 **Molecular Properties**
 
 * [Molinspiration](https://www.molinspiration.com/cgi/properties)
 * [Osiris](https://www.organic-chemistry.org/prog/peo/)
+* [DataWarrior](https://openmolecules.org/datawarrior/)
