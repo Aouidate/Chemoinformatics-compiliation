@@ -39,7 +39,7 @@ The tools in this repository are licensed under the MIT License.
 
 **Handling Small Molecules**
 
-* [Gypsum-DL]9https://durrantlab.pitt.edu/gypsum-dl/0 : Gypsum-DL is a free, open-source program that converts 1D and 2D small-molecule representations (SMILES strings or flat SDF files) into 3D models. It outputs models with alternate ionization, tautomeric, chiral, cis/trans isomeric, and ring-conformational states.
+* [Gypsum-DL](https://durrantlab.pitt.edu/gypsum-dl/0) : Gypsum-DL is a free, open-source program that converts 1D and 2D small-molecule representations (SMILES strings or flat SDF files) into 3D models. It outputs models with alternate ionization, tautomeric, chiral, cis/trans isomeric, and ring-conformational states.
 
 * [Open Babel](https://openbabel.org/docs/Installation/install.html) or [here](https://sourceforge.net/projects/openbabel/) : Open Babel is a chemical toolbox designed to speak the many languages of chemical data. It’s an open, collaborative project allowing anyone to search, convert, analyze, or store data from molecular modeling, chemistry, solid-state materials, biochemistry, or related areas.
 
